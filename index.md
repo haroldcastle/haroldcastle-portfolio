@@ -15,7 +15,7 @@ In this project we used the data from Adventure Works to simulate the typical da
 On the business side, it was great to see the granularity of how the traffic of the page is recorded, so you can get every level of interaction and discern where you need to focus to grow the business. On the technical side I believe the genius way of using nested structures is simple and yet effective to achieve the objective of making easier the understanding of Google Analytics metrics. 
 
 [Home Credit Default Risk](http://example.com/)
-<img src="images/thumbnail_03.jpg?raw=true"/>
+<img src="images/thumbnail_03.png?raw=true"/>
 
 Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
 
